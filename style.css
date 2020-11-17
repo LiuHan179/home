@@ -1,0 +1,79 @@
+/* The following 24 lines of code was taken from https://www.w3schools.com/css/css_navbar_horizontal.asp with a few changes */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "Comic Sans MS";
+  font-size: 20px;
+}
+
+
+li a:hover {
+  background-color: #111;
+}
+
+body {
+	font-family: "Comic Sans MS", "Open Sans";
+	font-size: 25px;
+}
+
+table {
+	border: 2px solid black;
+	width: 30%;
+	height: 250px;
+	text-align: center;
+	font-size: 50px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+img {
+	width: 50%;
+	height: 500px;
+}
+
+a img {
+	width: 100px;
+	height: 100px;
+}
+
+.badmintonimage, .hikeimage, .valorantyoutube, .tacoimage {
+	width: 400px;
+	height: 400px;
+	float: right;
+}
+
+.okra, #imgs, #imgse, #imges {
+	float: right;
+}
+
+.okra, .junk {
+	width: 40%;
+	height: 500px;
+}
+
+iframe {
+	 width: 560px;
+	 height: 315px; 
+}
+.imageimage {
+	width: 250px;
+	height: 64px;
+}
